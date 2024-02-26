@@ -1,5 +1,5 @@
 # 3D-reconstruction-of-Shandong-University-and-its-target-detection
-The project was completed in **2022** and took about four months.
+The project was completed in **2022** and took about more than six months.
 
 Three-dimensional reconstruction has become a popular research direction in the field of computer vision, and has great application potential in medical imaging, relic reconstruction, VR and other fields. The main task of 3D reconstruction is to use single or multiple images and other information such as depth 2D images are converted to 3D models.
 
